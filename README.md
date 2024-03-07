@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bently</h1>
-<h3 align="center">I’m a passionate Full Stack and C++ Developer</h3>
+<h3 align="center">I’m a Full Stack and C++ Developer</h3>
 
 - 🔭 I’m currently working on [Redactle](github.com/BentlyM/redactle)
 

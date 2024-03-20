@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/TusharKukra/TusharKukra/blob/main/gifs/hello.gif" alt="hello"/> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/5b/e8/1b/5be81b7844bdb0a9cf98b94ea845c14d.gif" alt="hello"/> </p>
 
 ## 👋 I'm [Bently Metayer](https://github.com/BentlyM/)
 

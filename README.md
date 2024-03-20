@@ -9,7 +9,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Tцѕндя Kцкяд's DEV Profile" height="30" width="30">
 </a>
 
-### Glad to see you here:  ![Views](https://komarev.com/ghpvc/?username=mavericktk&color=blue)
+### Glad to see you here:  ![Views](https://komarev.com/ghpvc/?username=bentlyM&color=blue)
 
 
 I'm a Software Developer 👨‍💻, currentlly working towards my Bachelors's in Computer Science 🎓 from BC -> UCF 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Data Structures & Algorithms as well as in Full Stack Developemnt 🕸️.

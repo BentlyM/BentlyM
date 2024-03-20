@@ -2,9 +2,7 @@
 
 ## 👋 I'm [Bently Metayer](https://github.com/BentlyM/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tusharkukra)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://TusharKukra.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/tusharkukra)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bently-metayer-707364265/)
 <a href="https://dev.to/mavericktk">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Tцѕндя Kцкяд's DEV Profile" height="30" width="30">
 </a>

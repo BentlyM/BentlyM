@@ -14,7 +14,7 @@ I'm a Software Developer 👨‍💻, currentlly working towards my Bachelors's 
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working with Typescript, Next.js, C++, etc.
-- 🚀🏻‍💻 Most of my projects are available on [Github](https://github.com/BentlyM/).
+- 🚀🏻‍💻 Most of my projects are available on [Github](https://github.com/BentlyM?tab=repositories).
 - 💬 Ask me about anything [here](https://github.com/BentlyM/BentlyM/issues/). I am happy to help.
 
 ### Languages and Tools:

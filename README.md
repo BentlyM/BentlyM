@@ -7,6 +7,6 @@
 
 I'm a Software Developer 👨‍💻
 
-- 🛠 I’m currently working with Typescript, Next.js, C++, etc.
+- 🛠 I’m currently working with webpack and javascript.
 - 🚀🏻‍💻 Most of my projects are available on [Github](https://github.com/BentlyM?tab=repositories).
 - 💬 Ask me about anything [here](https://github.com/BentlyM/BentlyM/issues/). I am happy to help.

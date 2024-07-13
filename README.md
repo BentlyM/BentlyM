@@ -1,4 +1,4 @@
-## 👋 I'm [Bently Metayer](https://github.com/BentlyM/)
+## 👋 I'm [Bently](https://github.com/BentlyM/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bently-metayer-707364265/)
 

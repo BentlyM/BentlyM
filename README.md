@@ -10,3 +10,4 @@ I'm a Software Developer 👨‍💻
 - 🛠 I’m currently working with node/next.js and typescript.
 - 🚀🏻‍💻 Most of my projects are available on [Github](https://github.com/BentlyM?tab=repositories).
 - 💬 Ask me about anything [here](https://github.com/BentlyM/BentlyM/issues/). I am happy to help.
+-  need a news aggregator? [here](https://www.gridnews.io/). I made it myself ;>

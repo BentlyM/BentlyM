@@ -1,7 +1,5 @@
 ## Hi, I'm [Bently](https://github.com/BentlyM)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bently-metayer-707364265/)
-
 ### Welcome to my profile  
 ![Views](https://komarev.com/ghpvc/?username=bentlyM&color=blue)
 
